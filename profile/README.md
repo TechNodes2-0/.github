@@ -1,6 +1,10 @@
-# Technode's - Empowering Students through Technology
+<h1 align="center">  Technode's - Empowering Students through Technology    </h1>
 
-![Technode's Logo](https://avatars.githubusercontent.com/u/122171178?s=200&v=4)
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/122171178?s=200&v=4" alt="Nishit Baria Organization Logo" width="250px" />
+</div>
+
+<hr>
 
 Welcome to Technode's, the open-source community powered by students! Join us on an exciting journey of learning, growth, and innovation. Here's what Technode's is all about and how you can get involved:
 
@@ -14,7 +18,7 @@ At Technode's, we facilitate collaborative learning, innovation, and problem-sol
 
 ## How to Get Involved
 
-1. **Join Our Community**: Register for free on [www.technodes.com](https://www.technodes.com) and become a member of our vibrant community. Gain access to forums, projects, and a network of like-minded individuals.
+1. **Join Our Community**: Register for free on [Technode Offcial Website](https://technodes.netlify.app/) and become a member of our vibrant community. Gain access to forums, projects, and a network of like-minded individuals.
 
 2. **Explore Open-Source Projects**: Discover a wide range of projects, from software development to hardware. Contribute and collaborate on projects that align with your interests and expertise.
 
